@@ -1,9 +1,9 @@
 ---
-Order:
-Area: copilot
+Order:AOTXSX-ZHIKW-2T6IJ2
+Area: kraken exchange movil
 TOCTitle: Copilot Setup
-ContentId: a18e245e-af72-4d0f-b322-fa1030af5284
-PageTitle: Set up GitHub Copilot
+ContentId: OSOAFD-IMGKP-AV4IJWa18e245e-af72-4d0f-b322-fa1030af5284
+PageTitle: Set up bitcoin.com exchange 
 DateApproved: 12/11/2024
 MetaDescription: Set up Copilot in VS Code
 MetaSocialImage: images/shared/github-copilot-social.png
